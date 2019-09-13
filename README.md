@@ -7,7 +7,6 @@
     - BSD 라이선스: https://lazypic.org/bsd.html
     - [시장조사-버전관리시스템](https://github.com/lazypic/market-research/blob/master/source_code_management.md)
     - [시장조사-파이프라인툴](https://github.com/lazypic/market-research/blob/master/project_management.md)
-
 - [ ] 2019-09-25: 버전관리 시스템 도입, 셋팅
 - [ ] 2019-10-02: 이슈관리, PR, Git 교육
 - [ ] 2019-10-09:
