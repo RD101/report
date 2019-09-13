@@ -1,7 +1,9 @@
 # report
 
 ### 공통사항
-현 개발중인 [CSI](https://github.com/digital-idea/csi3)의 개발사항 공유는 매주 진행 
+- 로드맵 PPT 지속 작성 (약 한달간)
+- 현 개발중인 [CSI](https://github.com/digital-idea/csi3)의 개발사항 공유는 매주 진행.
+
 
 ### History
 - [x] 2019-09-04: 계약진행, 이슈공유
