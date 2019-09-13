@@ -1,4 +1,4 @@
-# report
+# Report
 
 ### 공통사항
 - 로드맵 PPT 지속 작성 (약 한달간)
@@ -7,14 +7,14 @@
 
 ### History
 - [x] 2019-09-04: 계약진행, 이슈공유
-- [x] 2019-09-18: BSD라이센스, 로드맵 1차 작성, github, slack, 리포지터리 생성
+- [x] 2019-09-18: BSD라이센스, 로드맵 1차 작성회의 시작, github, slack, 리포지터리 생성
     - BSD 라이선스: https://lazypic.org/bsd.html
     - [시장조사-버전관리시스템](https://github.com/lazypic/market-research/blob/master/source_code_management.md)
     - [시장조사-파이프라인툴](https://github.com/lazypic/market-research/blob/master/project_management.md)
 - [ ] 2019-09-25: 버전관리 시스템 도입, 셋팅
 - [ ] 2019-10-02: 이슈관리, PR, Git 교육
-- [ ] 2019-10-09:
-- [ ] 2019-10-16:
+- [ ] 2019-10-09: 1차 로드맵 PPT 작성완료
+- [ ] 2019-10-16: 
 - [ ] 2019-10-23:
 - [ ] 2019-10-30:
 - [ ] 2019-11-06:
