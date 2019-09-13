@@ -1,7 +1,9 @@
 # report
 
+### 공통사항
 현 개발중인 [CSI](https://github.com/digital-idea/csi3)의 개발사항 공유는 매주 진행 
 
+### History
 - [x] 2019-09-04: 계약진행, 이슈공유
 - [x] 2019-09-18: BSD라이센스, 로드맵 1차 작성, github, slack, 리포지터리 생성
     - BSD 라이선스: https://lazypic.org/bsd.html
