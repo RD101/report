@@ -13,8 +13,8 @@
     - [시장조사-파이프라인툴](https://github.com/lazypic/market-research/blob/master/project_management.md)
 - [x] 2019-09-25: [Gogs 버전관리 시스템 도입](documents/gogs.md)
 	- [CentOS7.6 git설치](documents/git.md)
-- [ ] 2019-10-02: 이슈관리, PR, Git 교육
-- [ ] 2019-10-09: 1차 로드맵 PPT 작성완료
+- [ ] 2019-10-02: 회의확장 with 아티스트, 이슈관리, PR, Git 교육
+- [ ] 2019-10-09:
 - [ ] 2019-10-16: 
 - [ ] 2019-10-23:
 - [ ] 2019-10-30:
