@@ -2,8 +2,7 @@
 
 ### 공통사항
 - 로드맵 PPT 지속 작성 (약 한달간)
-- 현 개발중인 [CSI](https://github.com/digital-idea/csi3)의 개발사항 공유는 매주 진행.
-
+- 주요 이슈가 끝나면 [csi](https://github.com/digital-idea/csi3) 개발사항 공유, [dotori](https://github.com/rd101/dotori) 개발진행
 
 ### History
 - [x] 2019-09-04: 계약진행, 이슈공유
@@ -13,7 +12,7 @@
     - [시장조사-파이프라인툴](https://github.com/lazypic/market-research/blob/master/project_management.md)
 - [x] 2019-09-25: [Gogs 버전관리 시스템 도입](documents/gogs.md)
 	- [CentOS7.6 git설치](documents/git.md)
-- [ ] 2019-10-02: 회의확장 with 아티스트, 이슈관리, PR, Git 교육
+- [ ] 2019-10-02: 회의확장 with 아티스트, 이슈관리 체크, PR교육, Git교육
 - [ ] 2019-10-09:
 - [ ] 2019-10-16: 
 - [ ] 2019-10-23:
@@ -25,7 +24,7 @@
 - [ ] 2019-12-04:
 - [ ] 2019-12-11:
 - [ ] 2019-12-18:
-- [ ] 2019-12-25:
+- [ ] 2019-12-25: 크리스마스
 - [ ] 2020-01-01: 설날
 - [ ] 2020-01-08:
 - [ ] 2020-01-15:
