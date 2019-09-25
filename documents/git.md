@@ -17,6 +17,12 @@ git-2.23.0.tar.gz 파일을 아래 링크에서 다운로드 합니다.
 # make install
 ```
 
+## comment
+사용자에게 admin권한이 없을 때 접근하면 다음과 같은 에러가 뜹니다.
+`RPC failed HTTP 403 curl  the requested URL returned error:403`
+gogs에 들어가서 admin권한을 부여합니다.<br>
+적용되기까지 시간이 약간 소요됩니다.
+
 ### 참고사항
 - [gcc](https://gcc.gnu.org): GNU C Compiler
 - [curl-devel](https://curl.haxx.se): URL로 데이터를 전송하기 위한 라이브러리
