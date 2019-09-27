@@ -11,8 +11,9 @@
     - [시장조사-버전관리시스템](https://github.com/lazypic/market-research/blob/master/source_code_management.md)
     - [시장조사-파이프라인툴](https://github.com/lazypic/market-research/blob/master/project_management.md)
 - [x] 2019-09-18: [Gogs 버전관리 시스템 도입](documents/gogs.md)
-	- [CentOS7.6 git설치](documents/git.md)
-- [ ] 2019-09-25: 회의확장 with 아티스트, 이슈관리 체크, PR교육, Git교육
+	- [CentOS7.6 git설치](documents/git.md
+- [x] 2019-09-25: 회의확장 with 아티스트, 이슈관리 체크, PR교육, Git교육
+        - [Trevis CI](https://github.com/lazypic/studygo/blob/master/docs/travisci.md)
 - [ ] 2019-10-02:
 - [ ] 2019-10-09: 한글날
 - [ ] 2019-10-16: 
