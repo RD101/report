@@ -12,7 +12,10 @@
     - [시장조사-파이프라인툴](https://github.com/lazypic/market-research/blob/master/project_management.md)
 - [x] 2019-09-18: [Gogs 버전관리 시스템 도입](documents/gogs.md)
 	- [CentOS7.6 git설치](documents/git.md)
-- [ ] 2019-09-25: 회의확장 with 아티스트, 이슈관리 체크, PR교육, Git교육
+- [x] 2019-09-25: 회의확장 with 아티스트, 이슈관리 체크, PR교육, Git교육
+	- 김진범 팀장님과 희의: pathAPI, Scene Opener 기능 요청(폴더 구조 통일이 가장 시급)
+	- [Travis CI를 이용한 코드 테스트](https://github.com/lazypic/studygo/blob/master/docs/travisci.md)<br>
+- *2019-09-27*: 신입 개발자 사전 면접 진행
 - [ ] 2019-10-02:
 - [ ] 2019-10-09: 한글날
 - [ ] 2019-10-16: 
@@ -51,7 +54,7 @@
 - [ ] 2020-06-03:
 - [ ] 2020-06-10:
 - [ ] 2020-06-17:
-- [ ] 2020-06-24:
+- [ ] 2020-06-24
 - [ ] 2020-07-01:
 - [ ] 2020-07-08:
 - [ ] 2020-07-15:
