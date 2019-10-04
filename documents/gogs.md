@@ -43,3 +43,9 @@ $ gogs backup
 ### 회원가입
 이슈, 버그트레킹툴이 가치 있으려면 모든 직원이 가입하고 사용하는 것을 추천합니다.
 개발자를 포함하여 전직원 회원가입을 진행합니다.
+
+### :80 포트 방화벽등록
+```
+# firewall-cmd --add-service=http --parmanent
+# firewall-cmd --reload
+```
