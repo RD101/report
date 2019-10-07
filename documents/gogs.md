@@ -46,6 +46,6 @@ $ gogs backup
 
 ### :80 포트 방화벽등록
 ```
-# firewall-cmd --add-service=http --parmanent
+# firewall-cmd --add-service=http --permanent
 # firewall-cmd --reload
 ```
