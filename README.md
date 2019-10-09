@@ -15,7 +15,7 @@
 - [x] 2019-09-25: 마야회의, 면접전 미팅, 이슈관리 체크, PR교육, Git교육
     - CI설명: https://github.com/lazypic/studygo/blob/master/docs/travisci.md
 - [x] 2019-10-02: 코드 리뷰, 한 주 동안 발생한 이슈 체크, gogs에 리포지터리 등록 완료, 개발 우선순위 및 로드맵 관리, 에셋 라이브러리 교육(flag)
-- [ ] 2019-10-09: 한글날
+- [x] 2019-10-09: 한글날, github online PR(Pull request 진행)
 - [ ] 2019-10-16: 
 - [ ] 2019-10-23:
 - [ ] 2019-10-30:
