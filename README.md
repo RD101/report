@@ -16,7 +16,7 @@
     - CI설명: https://github.com/lazypic/studygo/blob/master/docs/travisci.md
 - [x] 2019-10-02: 코드 리뷰, 한 주 동안 발생한 이슈 체크, gogs에 리포지터리 등록 완료, 개발 우선순위 및 로드맵 관리, 에셋 라이브러리 교육(flag)
 - [x] 2019-10-09: 한글날, github online PR(Pull request 진행)
-- [ ] 2019-10-16: 
+- [x] 2019-10-16: gogs 이슈토론, 신입 개발자를 위한 기존 진행사항 공유, 버전관리 툴 PR교육 1차
 - [ ] 2019-10-23:
 - [ ] 2019-10-30:
 - [ ] 2019-11-06:
