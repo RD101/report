@@ -18,7 +18,7 @@
 - [x] 2019-10-09: 한글날, github online PR(Pull request 진행)
 - [x] 2019-10-16: gogs 이슈토론, 신입 개발자를 위한 기존 진행사항 공유, 버전관리 툴 PR교육 1차
     - 레귤러 익스프레션: https://github.com/cgiseminar/curriculum/blob/master/docs/path_regexp.md
-- [ ] 2019-10-23:
+- [x] 2019-10-23: gogs 이슈토론, 도토리 테스트 코드 작성 및 Travis Ci와 연동, 버전관리 툴 PR교육 2차, 업무 배정(issue assign)
 - [ ] 2019-10-30:
 - [ ] 2019-11-06:
 - [ ] 2019-11-13:
