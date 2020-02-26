@@ -143,7 +143,34 @@
 		- Attribute 검색기능 추가
 		- 새로운 Maya 에셋 데이터 DB에 추가
 		- Status 회의
-- [ ] 2020-02-26: 월간회의
+- [x] 2020-02-26: 월간회의
+	- gogs 이슈토론 및 로드맵 진행상황 체크
+		- Publish tool, scene saver, scene opener 진행상황 체크
+		- 인수인계 관련 토의
+		- Nuke에서 eddy를 사용하는 것에 대한 토의. 보통 fx를 줄이려고 씀
+		- Houdini 베이스 USD pipeline에 대한 토의(renderman추천, dotori도 maya개발이 끝나면 USD쪽으로 개발하기로
+		- 결산툴: restAPI성공. 데이터가 짤리는 현상 해결방법 설명
+		- 경로 switching
+		- 스토리지 이름 변경건 준비.(rg을 이용해서 규모 체크)
+	- csi진행상황 공유
+		- top버튼을 누르면 접혀있던 검색박스가 펼쳐지는 기능.
+		- 재스캔이 된 경우, 재스캔된 정보 업데이트 및 정보 표기
+		- 재스캔 업데이트 코드, DB호출 횟수를 줄이도록 리팩토링. 트렌젝션 최적화
+		- status를 자유롭게 커스터마이징 할 수 있도록 함(add status기능)(분야 확장성 고려)
+	- 에셋 라이브러리 툴(dotori)
+		- Ocio.config 교육(https://github.com/lazypic/tdcourse/blob/master/docs/openimageio.md)
+		- 토론된 itemstatus 코드에 반영.
+		- process중인 아이템과 그 상태를 출력하는 페이지 제작
+		- process중인 아이템과 그 상태를 출력하는 기능 추가
+		- Itemstatus 보완
+		- Itemstatus 바꾸는 방법 보강.(racing 상태 예방)
+		- 단축키 버그 해결
+		- 필요한 library 설치법 문서화
+		- 버튼에 마우스 오버를 할 경우 손가락포인터로 변경
+		- 아이템 레이아웃 개선(가운데 정렬)
+		- admin설정의 수정이 완료되면 완료 페이지가 뜨도록 함.
+		- RD101에서 필요한 기능 토의
+		- 앞으로의 개발 방향 토의
 - [ ] 2020-03-04:
 - [ ] 2020-03-11:
 - [ ] 2020-03-18:
