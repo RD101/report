@@ -395,7 +395,32 @@
 		    - 프로세스 중간에 에러가 날 경우 시스템에 로그 뿌리도록 함
 		- Add Maya 페이지에서 필수 정보가 입력되지 않으면 페이지가 넘어가지 않도록 함
 		- adminsetting에서 umask, folder permission, file permission에 대한 에러처리 리팩토링
-- [ ] 2020-05-06:
+- [x] 2020-05-06:
+	- gogs 이슈토론 및 로드맵 진행상황 체크
+		- IR 자료 작성 시작
+		    - IR 자료의 전반적인 구성 설명.
+	- csi진행상황 공유
+		- 리뷰기능 기획 중
+		    - Daily review
+		    - Daily review를 넣으 수 있는 REST API
+		    - 날짜로 검색하는 기능
+		    - 리뷰 컨셉(https://syncsketch.com)
+		    - 리뷰 상태
+		    - 자료구조 구상
+		    - 레이아웃 구상
+	- 에셋 라이브러리 툴(dotori)
+		- Storage usage를 시작적으로 볼 수 있는 프로그레스바 추가
+		- 서버가 꺼지는 문제 해결(네트워크 연결이 너무 많은 부분 수정해서 해결)
+		- Admin setting 가져오는 restAPI 추가 및 도움말 문서 작성
+		- process를 아이템 타입별로 분기함
+		- 아이템이 생성됨과 동시에 로그를 남겨서 $push 쿼리 관련 에러를 없앰
+		- 썸네일에서 using rate을 볼 수 있도록 표기함
+		- 다운로드버튼을 누르면 using rate이 올라가도록 함
+		- 필요한 데이터가 모두 업로드 되지 않은 아이템을 표기해주는 페이지 작성
+		- 소스 업로드 시 color space를 설정할 수 있도록 함
+		- Admin 계정은 item Delete버튼이 보이게 함.
+		- tag 관련 에러 없앰
+		- UpdateUsingRate 버그 수정
 - [ ] 2020-05-13:
 - [ ] 2020-05-20:
 - [ ] 2020-05-27: 월간회의
