@@ -790,4 +790,25 @@
 		- REST API: fileupload 최소 기능 테스트
 		- 썸네일 디자인: 모달창 기능 완료
 		- 초기 페이지: 버그 수정 완료 및 추후 리팩토링할 부분 토론
-- [ ] 2020-09-02: 연간 리포트 작성
+- [x] 2020-09-02: 연간 리포트 작성
+	- gogs 이슈토론 및 로드맵 진행상황 체크
+		- 한 주간 이슈 체크
+		- 도토리 진행 상황 공유
+	- csi진행상황 공유
+		- admin Setting에 Thumbnail width, height 지정할 수 있는 옵션 생성
+		- Review: 새로고침을 하지 않아도 바로 코멘트를 삭제할 수 있도록 리팩토링
+		- Review: 리뷰 아이템을 삭제할 수 있는 기능 추가
+		- Review: add Review REST API 문서 보완
+		- Review: rvplayer 버튼 생성 및 dilink로 연결
+	- 에셋 라이브러리 툴(dotori)
+		- Dropzone: 수동업로드 기능 추가
+		- Dropzone: HDRI는 파일 하나만 추가할 수 있도록 변경
+		- Dropzone: 파일 삭제 기능 구현
+		- Dropzone: 아이템 타입별로 드롭존옵션 다르게 주는 법 위키에 추가
+		- Command: 경로에 띄어쓰기가 있는 경우, 작은 따옴표, 큰 따옴표가 있는 경우, 없는 경우 처리
+		- REST API: alembic에 추가한 Add REST API 를 다른 아이템타입에도 적용
+		- copyPath버튼을 눌렀을 때, os에 맞게 경로 바꾸는 기능 추가
+		- 썸네일 디자인 
+		- 편집페이지에서 파일 목록 보기 및 삭제 기능 구현중
+- [ ] 2020-09-09: 전사발표
+
